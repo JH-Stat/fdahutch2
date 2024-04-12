@@ -22,4 +22,4 @@ str_split_one <- function(string, pattern, n = Inf) {
   }
 }
 
-## Check this out.
+## Check this out. Please
